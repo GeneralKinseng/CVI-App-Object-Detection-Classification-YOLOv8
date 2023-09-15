@@ -34,3 +34,16 @@ Python version: 3.11 <br />
 1. On the CVI App, navigate to 'View Results' tab
 2. Press 'Browse'
 3. Select the folders that the predicted images saved into (project directory -> runs)
+
+
+## Screenshots
+![Screenshot 1](runs/detect/predict/Freight-Transport.jpg)
+![Screenshot 2](runs/detect/predict/animals.jpg)
+![Screenshot 3](runs/detect/predict/axia.jpeg)
+![Screenshot 4](runs/detect/predict/corgi.jpeg)
+![SCreenshot 5](<runs/detect/predict/living room.jpg>)
+
+
+## Contributions
+Ultralytics - https://docs.ultralytics.com/
+<br />PySimpleGUI - https://www.pysimplegui.org/en/latest/
