@@ -2,10 +2,10 @@
  A Python GUI App for Object Detection and Classification using YOLOv8
 
 ## Pre-requisites
-Python version: 3.11\n
-Ultralytics\n
+Python version: 3.11 <br />
+Ultralytics <br />
 `pip install ultralytics`
-PySimpleGUI\n
+PySimpleGUI <br />
 `pip install PySimpleGUI`
 
 
