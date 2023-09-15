@@ -37,11 +37,11 @@ Python version: 3.11 <br />
 
 
 ## Screenshots
-![Screenshot 1](runs/detect/predict/Freight-Transport.jpg)
-![Screenshot 2](runs/detect/predict/animals.jpg)
-![Screenshot 3](runs/detect/predict/axia.jpeg)
-![Screenshot 4](runs/detect/predict/corgi.jpeg)
-![SCreenshot 5](<runs/detect/predict/living room.jpg>)
+<img src="https://github.com/GeneralKinseng/CVI-App-Object-Detection-Classification-YOLOv8/blob/main/runs/detect/predict/Freight-Transport.jpg" width="480" height="360">
+<img src="https://github.com/GeneralKinseng/CVI-App-Object-Detection-Classification-YOLOv8/blob/main/runs/detect/predict/animals.jpg" width="480" height="360">
+<img src="https://github.com/GeneralKinseng/CVI-App-Object-Detection-Classification-YOLOv8/blob/main/runs/detect/predict/axia.jpeg" width="480" height="360">
+<img src="https://github.com/GeneralKinseng/CVI-App-Object-Detection-Classification-YOLOv8/blob/main/runs/detect/predict/corgi.jpeg" width="480" height="360">
+<img src="https://github.com/GeneralKinseng/CVI-App-Object-Detection-Classification-YOLOv8/blob/main/runs/detect/predict/living room.jpg" width="480" height="360">
 
 
 ## Contributions
