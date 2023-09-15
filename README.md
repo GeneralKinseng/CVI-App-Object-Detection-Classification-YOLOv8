@@ -50,7 +50,7 @@ Python version: 3.11 <br />
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<br />
+
 ## Contributions
 Ultralytics - https://docs.ultralytics.com/
 <br />PySimpleGUI - https://www.pysimplegui.org/en/latest/
