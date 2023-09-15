@@ -4,7 +4,7 @@
 ## Pre-requisites
 Python version: 3.11 <br />
 Ultralytics <br />
-`pip install ultralytics`
+`pip install ultralytics` <br />
 PySimpleGUI <br />
 `pip install PySimpleGUI`
 
